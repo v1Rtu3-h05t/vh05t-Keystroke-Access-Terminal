@@ -67,10 +67,10 @@ def v_kat_capture(key):
         v_kat_buffer += " "
     elif key == Key.enter:
         v1rtu3_flush()
-        v1rtu3_log("[ENTER], newline_before=True")
+        v1rtu3_log("[ENTER]", newline_before=True)
     elif key == Key.tab:
         v1rtu3_flush()
-        v1rtu3_log("[Field Change], newline_before=True")
+        v1rtu3_log("[Field Change]", newline_before=True)
     elif key == Key.backspace:
         if v_kat_buffer:
             v_kat_buffer = v_kat_buffer[:-1]
