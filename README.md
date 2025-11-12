@@ -7,9 +7,12 @@ The script runs in any terminal that supports Python including Kali Linux, Ubunt
 🔧 Setup Instructions
 Clone the repository:
 
-bash
+bash:
+
 git clone https://github.com/v1Rtu3-h05t/vh05t-Keystroke-Access-Terminal.git
+
 cd vh05t-Keystroke-Access-Terminal
+
 Install dependencies (Python 3 must be installed):
 
 bash
