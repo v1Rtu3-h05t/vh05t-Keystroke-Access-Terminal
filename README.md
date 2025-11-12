@@ -1,12 +1,5 @@
 # vh05t-Keystroke-Access-Terminal
 
-██╗   ██╗██╗  ██╗ ██████╗ ███████╗████████╗
-██║   ██║██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
-██║   ██║███████║██║   ██║███████╗   ██║   
-██║   ██║██╔══██║██║   ██║╚════██║   ██║   
-╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
-
 vh05t-KAT: Ethical keystroke logger
 This Python script is a keystroke logger designed for ethical and educational use. It captures user keystrokes in real time using the pynput library, buffers printable characters, and flushes them to log files with timestamps.
 The script also includes an auto-flush feature that logs idle input after 5 seconds and displays a branded ASCII banner on launch. All keystrokes are saved to v1rtu3_trace.txt and v_kat_outbox.txt for review or cyber forensic purposes.
