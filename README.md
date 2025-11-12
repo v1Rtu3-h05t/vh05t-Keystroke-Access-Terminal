@@ -19,6 +19,7 @@ Install dependencies (Python 3 must be installed):
 bash:
 
 pip install pynput
+
 Run the script:
 
 bash:
