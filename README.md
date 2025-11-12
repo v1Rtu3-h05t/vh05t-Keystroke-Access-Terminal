@@ -20,7 +20,7 @@ bash
 python v_kat.py
 Exit cleanly:
 
-Press ESC to stop the logger and flush the final buffer.
+🚨 Press ESC to stop the logger and flush the final buffer 🚨
 
 📂 Output
 Keystrokes are logged with timestamps to:
