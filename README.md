@@ -15,13 +15,16 @@ cd vh05t-Keystroke-Access-Terminal
 
 Install dependencies (Python 3 must be installed):
 
-bash
+bash:
+
 pip install pynput
 Run the script:
 
-bash
+bash:
+
 python v_kat.py
-Exit cleanly:
+
+Exit cleanly while running:
 
 🚨 Press ESC to stop the logger and flush the final buffer 🚨
 
